@@ -1,1 +1,3 @@
 # testConflict
+
+`npm install`
